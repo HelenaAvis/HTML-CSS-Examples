@@ -1,0 +1,8 @@
+@import url(./vars.css);
+
+.header {
+
+    .header__image {
+        width: 30%;
+    }
+}

@@ -1,7 +1,9 @@
 @import url(./vars.css);
+@import url(./header.css);
 @import url(./navbar.css);
 @import url(./content.css);
 
+/* global style */
 body {
     background-color: var(--bg-color);
 }
