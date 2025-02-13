@@ -4,6 +4,15 @@
 @import url(./content.css);
 
 /* global style */
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
 body {
+    margin: auto;
     background-color: var(--bg-color);
 }

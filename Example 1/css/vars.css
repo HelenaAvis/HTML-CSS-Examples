@@ -1,5 +1,6 @@
 :root {
+    --text-color: #000000;    
     --bg-color: #ececec;
-    --nav-color: #a8a8a8;
-    --button-color: #777777;
+    --button-color: #cccccc;
+    --border-color: #8d8d8d;
 }
