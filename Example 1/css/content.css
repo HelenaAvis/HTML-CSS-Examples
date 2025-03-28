@@ -4,8 +4,19 @@
 
 .left {
     flex: 1;
+    padding: 0px 10px;
 }
 
 .right {
     flex: 2;
+    padding: 0px 10px;
+}
+
+.content {
+    font-family: var(--font-family-body);
+}
+
+.content__heading {
+    font-family: var(--font-family-header);
+    border-bottom: solid 1px var(--border-color);
 }
