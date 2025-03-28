@@ -1,11 +1,11 @@
-nav{
+nav {
     position: sticky;
     top: 0;
 
     .main-nav {
         display: flex;
         list-style: none;
-    
+
         .main-nav__item {
             height: 50px;
             width: 32%;
@@ -14,11 +14,11 @@ nav{
             align-content: center;
             background-color: var(--button-color);
         }
-    
+
         .current {
             background-color: var(--bg-color);
         }
-    
+
         .main-nav__link {
             text-decoration: none;
             text-align: center;
