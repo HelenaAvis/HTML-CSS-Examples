@@ -9,4 +9,6 @@
     --font-family-header: 'Roboto', sans-serif;
 
     --font-family-body: 'Roboto', sans-serif;
+    --text-body-weight: 400;
+    --text-bold-weight: 500;
 }
