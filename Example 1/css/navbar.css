@@ -30,3 +30,7 @@ nav {
     color: var(--text-color);
     font-family: var(--font-family-header);
 }
+
+.main-nav__link:hover {
+    text-decoration: underline;
+}
