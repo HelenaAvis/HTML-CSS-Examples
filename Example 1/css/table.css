@@ -1,0 +1,29 @@
+.candidate-table {
+    width: 100%;
+    text-align: left;
+    border-collapse: collapse;
+}
+
+.candidate-table__row {
+    border: solid 1px var(--border-color);
+}
+
+.candidate-table__head {
+    padding: 10px 25px;
+    font-weight: var(--text-body-weight);
+}
+
+.candidate-table__data {
+    padding: 10px 25px;
+}
+
+.candidate-table__data--name {
+    font-weight: var(--text-bold-weight);
+}
+
+.candidate-table__button {
+    font-family: var(--font-family-body);
+    border: solid 1px var(--border-color);
+    border-radius: 10px;
+    width: 75px;
+}

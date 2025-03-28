@@ -1,0 +1,15 @@
+.contact-form__text-input {
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom: 25px;
+    text-align: left;
+    vertical-align: text-top;
+    font-family: var(--font-family-body);
+    font-weight: var(--text-body-weight);
+    font-size: 1em;
+    padding: 10px;
+}
+
+.contact-form__text-input--message {
+    padding-bottom: 75px;
+}

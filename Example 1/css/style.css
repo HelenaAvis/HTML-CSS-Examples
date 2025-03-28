@@ -1,7 +1,11 @@
 @import url(./vars.css);
 @import url(./header.css);
 @import url(./navbar.css);
+@import url(./bannerimage.css);
 @import url(./content.css);
+@import url(./table.css);
+@import url(./contact-form.css);
+@import url(./footer.css);
 
 /* global style */
 * {
@@ -14,5 +18,6 @@ html {
 
 body {
     margin: auto;
+    padding: 0px 15px;
     background-color: var(--bg-color);
 }

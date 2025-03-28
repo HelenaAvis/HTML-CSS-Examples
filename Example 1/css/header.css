@@ -1,6 +1,4 @@
-.header {
-
-    .header__image {
-        width: 30%;
-    }
+.header__image {
+    margin-top: 25px;
+    width: 30%;
 }
