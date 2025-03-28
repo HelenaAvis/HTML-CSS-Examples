@@ -2,13 +2,13 @@
 
 :root {
     --text-color: #000000;
-    --bg-color: #c7c6c6;
-    --button-color: #b3b3b3;
+    --bg-color: #dfdfdf;
+    --button-color: #bebebe;
     --border-color: #8d8d8d;
 
     --font-family-header: 'Roboto', sans-serif;
 
     --font-family-body: 'Roboto', sans-serif;
-    --text-body-weight: 400;
+    --text-body-weight: 300;
     --text-bold-weight: 500;
 }
