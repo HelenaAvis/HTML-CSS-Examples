@@ -6,25 +6,26 @@ nav {
 .main-nav {
     display: flex;
     list-style: none;
+    justify-items: center;
+}
 
-    .main-nav__item {
-        height: 50px;
-        width: 32%;
-        border: solid 1px var(--border-color);
-        border-bottom: none;
-        align-content: center;
-        background-color: var(--button-color);
-    }
+.main-nav__item {
+    height: 50px;
+    width: 33.3%;
+    border: solid 1px var(--border-color);
+    border-bottom: none;
+    align-content: center;
+    background-color: var(--button-color);
+}
 
-    .current {
-        background-color: var(--bg-color);
-    }
+.current {
+    background-color: var(--bg-color);
+}
 
-    .main-nav__link {
-        text-decoration: none;
-        text-align: center;
-        display: block;
-        font-size: 2em;
-        color: var(--text-color);
-    }
+.main-nav__link {
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    font-size: 2em;
+    color: var(--text-color);
 }

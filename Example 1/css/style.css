@@ -14,5 +14,6 @@ html {
 
 body {
     margin: auto;
+    padding: 0px 15px;
     background-color: var(--bg-color);
 }
