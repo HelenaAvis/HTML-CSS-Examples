@@ -21,3 +21,10 @@
     padding-left: 25px;
     font-weight: var(--text-bold-weight);
 }
+
+.candidate-table__button {
+    font-family: var(--font-family-body);
+    border: solid 1px var(--border-color);
+    border-radius: 10px;
+    width: 75px;
+}
