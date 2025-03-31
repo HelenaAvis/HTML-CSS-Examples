@@ -1,0 +1,27 @@
+.results-list {
+    width: 90%;
+}
+
+.result {
+    display: flex;
+    padding: 0% 5%;
+}
+
+.result__text {
+    font-family: var(--font-family-body);
+    font-weight: var(--text-body-weight);
+    color: var(--text-color-dark);
+    font-size: 0.75em;
+}
+
+.show-more {
+    background-color: var(--background-color);
+    border: 1px solid var(--button-color);
+    border-radius: 3px;
+    width: 20%;
+    height: 35px;
+    margin-left: 80%;
+    font-family: var(--font-family-body);
+    font-weight: var(--text-bold-weight);
+    color: var(--button-color);
+}

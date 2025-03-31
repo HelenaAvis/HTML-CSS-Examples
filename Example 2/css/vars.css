@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root {
+    --background-color: #ffffff;
     --button-color: #951ecc;
     --header-pink-color: #ca0b9a;
     --header-blue-color: #5100d3;
