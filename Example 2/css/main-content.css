@@ -2,3 +2,15 @@
     margin: auto;
     width: 60%;
 }
+
+.main-content__subheading {
+    font-family: var(--font-family-body);
+    font-weight: var(--text-bold-weight);
+}
+
+.main-content__text {
+    font-family: var(--font-family-body);
+    font-weight: var(--text-body-weight);
+    font-size: 1em;
+    color: var(--text-color-dark);
+}
