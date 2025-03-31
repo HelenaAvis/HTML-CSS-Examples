@@ -20,5 +20,5 @@
     display: block;
     text-decoration: none;
     color: var(--text-color-light);
-    font-family: var(--font-family-header);
+    font-family: var(--font-family-heading);
 }
