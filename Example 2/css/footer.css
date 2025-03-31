@@ -1,0 +1,23 @@
+footer {
+    display: flex;
+    padding: 100px 10%;
+    justify-content: space-between;
+    font-family: var(--font-family-body);
+    color: var(--text-color-dark);
+}
+
+.footer-nav {
+    display: flex;
+    list-style: none;
+}
+
+.footer-nav__item {
+    margin: 0px 5px;
+}
+
+.footer-nav__link {
+    display: block;
+    text-decoration: none;
+    color: var(--text-color-dark);
+    font-family: var(--font-family-heading);
+}

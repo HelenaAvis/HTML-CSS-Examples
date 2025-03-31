@@ -1,0 +1,30 @@
+.main-content {
+    margin: auto;
+    width: 60%;
+}
+
+.main-content__columns {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.main-content__subheading {
+    font-family: var(--font-family-body);
+    font-weight: var(--text-bold-weight);
+}
+
+.main-content__text {
+    font-family: var(--font-family-body);
+    font-weight: var(--text-body-weight);
+    font-size: 1em;
+    color: var(--text-color-dark);
+}
+
+.main-content__text--column {
+    width: 47%;
+}
+
+.main-content__image {
+    width: 100%;
+}
