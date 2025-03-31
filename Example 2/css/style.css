@@ -1,6 +1,7 @@
 @import url(./vars.css);
 
 /* component styles */
+@import url(./header.css);
 
 /* global style */
 * {
