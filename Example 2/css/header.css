@@ -1,8 +1,9 @@
 header {
     background: linear-gradient(90deg, var(--header-pink-color), var(--header-blue-color));
-    padding: 50px 200px;
+    padding: 5% 15%;
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 .logo {
