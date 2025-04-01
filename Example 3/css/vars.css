@@ -2,6 +2,7 @@
 
 :root {
     --background-color: #ffff00;
+    --border-color: #000000;
 
     --text-color-light: #ffff00;
     --text-color-dark: #000000;
@@ -12,6 +13,6 @@
     --text-bold-weight: 500;
     --text-heading-weight: 700;
 
-    --border-regular: 10px solid #000000;
-    --border-thick: 15px solid #000000;
+    --border-regular: 10px solid var(--border-color);
+    --border-thick: 15px solid var(--border-color);
 }
