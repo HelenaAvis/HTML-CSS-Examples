@@ -1,0 +1,19 @@
+@import url(./vars.css);
+
+/* component styles */
+@import url(./header.css);
+
+/* global style */
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: var(--background-color);
+    width: 75%;
+    margin: auto;
+}

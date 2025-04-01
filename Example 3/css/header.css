@@ -1,0 +1,12 @@
+header {
+    border: var(--border-thick);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+    margin-top: 50px;
+}
+
+.logo {
+    width: 50%;
+}
